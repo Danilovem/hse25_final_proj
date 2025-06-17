@@ -32,3 +32,5 @@ Scaffold N50: 22.6 Mb
 |8|ARID1A|ARID|
 |9|CIL1|Cullin, Cullin_Nedd8|
 |10|APOBEC2|APOBEC_C|
+
+[Ссылка на Google Colab этапа](https://colab.research.google.com/drive/1q5NT0CxLi2bYP-hTqi4clQznRBz8zDIP?usp=sharing)
