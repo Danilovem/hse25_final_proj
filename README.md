@@ -1,6 +1,7 @@
 # Acropora palmata
 ## Краткое описание орагнизма
 [Acropora palmata (Elkhorn coral)](https://en.wikipedia.org/wiki/Elkhorn_coral) - рифообразуюий коралл, обитающий в Карбиском море. Получил свое название от того, что он из-за своей ветвистой структуры похож на оленьи рога. Немного информации о нем: 
+
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Elkhorn_coral.jpg/250px-Elkhorn_coral.jpg)
 
 Количество статей на pubmed: 135 шт.
