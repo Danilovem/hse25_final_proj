@@ -38,3 +38,7 @@ Scaffold N50: 22.6 Mb
 |10|APOBEC2|APOBEC_C|
 
 [Ссылка на Google Colab этапа](https://colab.research.google.com/drive/1q5NT0CxLi2bYP-hTqi4clQznRBz8zDIP?usp=sharing)
+
+---
+## Zhunt и ZDNABERT
+К сожалению, мне не хватило времени обработать 14 хромосом генома, поэтому результатов по этому этапу отсутствуют
