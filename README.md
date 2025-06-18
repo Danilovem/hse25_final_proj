@@ -41,4 +41,4 @@ Scaffold N50: 22.6 Mb
 
 ---
 ## Zhunt и ZDNABERT
-К сожалению, мне не хватило времени обработать 14 хромосом генома, поэтому результатов по этому этапу отсутствуют
+[Ссылка на Google Colab этапа](https://colab.research.google.com/drive/1_GAVy1xxT__Z0XM2cQ-YTyv41bdnd6Q4?usp=sharing)
