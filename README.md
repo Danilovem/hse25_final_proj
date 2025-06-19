@@ -41,5 +41,4 @@ Scaffold N50: 22.6 Mb
 
 ---
 ## Zhunt и ZDNABERT
-[Ссылка на Google Colab этапа](https://colab.research.google.com/drive/1_GAVy1xxT__Z0XM2cQ-YTyv41bdnd6Q4?usp=sharing)
-[Ссылка на полученные данные](https://drive.google.com/drive/folders/1_L1fHhHmyj2TnUU5tDOT_p7zhOhvvwCS?usp=sharing)
+[Ссылка на Google Colab этапа](https://colab.research.google.com/drive/1CakX9MGfUqfJGMwu009UIxD16sNsV7Pr?authuser=2#scrollTo=-799tqTdjjsE)
