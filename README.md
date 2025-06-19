@@ -42,3 +42,13 @@ Scaffold N50: 22.6 Mb
 ---
 ## Zhunt и ZDNABERT
 [Ссылка на Google Colab этапа](https://colab.research.google.com/drive/1CakX9MGfUqfJGMwu009UIxD16sNsV7Pr?authuser=2#scrollTo=-799tqTdjjsE)
+
+|Участок|Число квадруплексов|Доля квадруплексов|Число предсказаний Zhunt|Доля предсказаний Zhunt|
+|---|---|---|---|---|
+|Exons|||||
+|Introns|||||
+|Promoters (1000 up from TSS)|||0||
+|Downstream (200 bp)||0||
+|Intergenic||||305025|
+
+
